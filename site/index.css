@@ -1,0 +1,56 @@
+ body {
+       background-image:url(https://ak.picdn.net/shutterstock/videos/1018972783/thumb/1.jpg);
+       background-attachment:fixed;
+       background-size: cover;
+       background-repeat: no-repeat;
+       background-position: center;
+} 
+#pagina {
+       margin-top:0px;
+       height:2000px; width:1000px;
+       margin-left:auto;
+       margin-right:auto;
+       border-style:groove;
+       background-color: #000000;
+}
+nav li {
+	display: inline;
+	margin: 0 0 0 16px;
+}
+a:nav li {
+ color: #00F;
+}
+
+a:hover {
+ color: #6600CC;
+}
+
+
+nav a {
+	text-transform: uppercase;
+	color: #FFFFFF;
+	font-weight: bold;
+	font-size: 24px;
+        font-family:Gabriola;
+	text-decoration: none;
+}
+#terceario {
+       margin-top:14px;
+       height:1050px; width:270px;
+       margin-left:70px;
+       margin-right:50px;
+       border-style:groove;
+       background-color: #000000;
+       float:  right;
+       border-color: #000000;
+       
+}
+#secundaria {
+       margin-top:30px;
+       height:1600px; width:600px;
+       margin-left:50px;
+       margin-right:50px;
+       border-style:groove;
+       background-color: #000000;
+       
+}
